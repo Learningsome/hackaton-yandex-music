@@ -9,6 +9,8 @@
 - [Kashirskii Nikolai](https://github.com/Learningsome) (Data Science)
 
 ## Над чем работали
+При работе над проектом мы придерживались функционального подхода к решению задач. Все функции содержат докстрингу, которая описывает суть функции, входные параметры, возвращаемые значения и комментарии к коду, где это необходимо.
+
 Разработали ML-модель для сопоставления текстов музыкальных произведений и для поиска каверов (вариации обработки оригинала с элементами новой аранжировки) по их текстам.  
 
 *Задачи, которые были решены*:
@@ -29,6 +31,7 @@ pandas, numpy, scikit-learn, torch, lightgbm, sentence-transformers, langdetect,
 - [Предварительная обработка данных](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/02-data-preprocessing.ipynb)
 - [Кодирование текстов песен в эмбеддинги](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/03-text-encoding.ipynb)
 - [Классификация треков + группировка каверов и исходных треков](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/04-tracks-classification-and-grouping.ipynb)
+
 
 ## Вывод
 В результате исследования были построены 2 модели:
