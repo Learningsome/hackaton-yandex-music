@@ -19,7 +19,8 @@
 Исследования проводились каждым участником в своей папке репозитория (папки названы по ФИО участника).
 
 ## Используемый стек технологий:
-pandas, numpy, scikit-learn, torch, lightgbm, sentence-transformers, langdetect, pandarallel, requests, joblib, pillow, musicbrainzngs, lyricsgenius, matplotlib, seaborn, colorama
+pandas, numpy, scikit-learn, torch, lightgbm, sentence-transformers, langdetect, pandarallel, requests, joblib, pillow, musicbrainzngs, lyricsgenius, matplotlib, seaborn, colorama.
+
 Более подробную информацию о стеке и зависимостях описали в файле [requirements.txt](https://github.com/Learningsome/hackaton-yandex-music/blob/main/requirements.txt)
 
 ## Решение 
