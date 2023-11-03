@@ -1,4 +1,4 @@
-# Проект команды "17 мгновений весны", Хакатон "Практикум x Яндекс.Музыка"Я
+# Проект команды "17 мгновений весны", Хакатон "Практикум x Яндекс.Музыка"
 
 ![Иллюстрация к проекту](https://yielding-character-d3f.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F2baaeed3-17c9-4763-bd41-59890c1e9406%2F78607ed7-bcb2-484b-92eb-0630853cb3c4%2F2023-10-20_09.47.37.jpg?table=block&id=ccfa20ce-dc10-4ef5-9e37-e73aa09dfc3f&spaceId=2baaeed3-17c9-4763-bd41-59890c1e9406&width=2000&userId=&cache=v2)
 
