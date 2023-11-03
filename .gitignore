@@ -27,7 +27,6 @@ temp/
 
 # Информация о пакетах
 pip-lock.txt
-requirements.txt
 
 # Исключение чувствительной информации
 config.py
