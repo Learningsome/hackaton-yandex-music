@@ -2,13 +2,14 @@
 
 ![Иллюстрация к проекту](https://yielding-character-d3f.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F2baaeed3-17c9-4763-bd41-59890c1e9406%2F78607ed7-bcb2-484b-92eb-0630853cb3c4%2F2023-10-20_09.47.37.jpg?table=block&id=ccfa20ce-dc10-4ef5-9e37-e73aa09dfc3f&spaceId=2baaeed3-17c9-4763-bd41-59890c1e9406&width=2000&userId=&cache=v2)
 
-
+## Наша команда - победители хакатона!
+🥇 Мы заняли первое место в соревновании 🥇  
 
 ## Участники команды
-- [Mikhalchuk Yana](https://github.com/YanaMikhalchuk) (Project Manager)
-- [Koptsev Andrei](https://github.com/AVKopt) (Data Science)
-- [Nikiforova Ksenia](https://github.com/nikiforovaks) (Data Science)
-- [Kashirskii Nikolai](https://github.com/Learningsome) (Data Science)
+- [Mikhalchuk Yana](https://github.com/YanaMikhalchuk) (Project Manager) ---- [Диплом Яны](https://drive.google.com/file/d/1VRXSwZp6oXDJfghVpDSc4CjB2IAULi22/view?usp=drive_link)
+- [Koptsev Andrei](https://github.com/AVKopt) (Data Science) ---------- [Диплом Андрея](https://drive.google.com/file/d/1ZXLs9ujvqod2rmZsmIZCGRWWtIax2TyG/view?usp=drive_link)
+- [Nikiforova Ksenia](https://github.com/nikiforovaks) (Data Science) ------- [Диплом Ксении](https://drive.google.com/file/d/1jgCOp0Bjqi0VOeVg5j1555J3NOURVxoU/view?usp=drive_link)
+- [Kashirskii Nikolai](https://github.com/Learningsome) (Data Science) -------- [Диплом Николая](https://drive.google.com/file/d/1DleHo3NCh6QVsv36GsuIiprDNqG1BUTA/view?usp=drive_link)
 
 ## Над чем работали
 При работе над проектом мы придерживались функционального подхода к решению задач. Все функции содержат докстрингу, которая описывает суть функции, входные параметры, возвращаемые значения и комментарии к коду, где это необходимо.
